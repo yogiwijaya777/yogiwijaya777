@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Development and Mobile Development
 - 🌱 I’m currently learning Full-Stack Development
 - 📫 How to reach me yogiwijaya115@gmail.com
-- 😄 Pronouns: Yogi
 - ⚡ Fun fact: a
 
 <!---
