@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yogi Wijaya
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full-Stack Development
+- 🌱 I’m currently learning Next.js 14
 - 📫 How to reach me yogiwijaya115@gmail.com
 - ⚡  I’m also playing Yu-Gi-Oh! Master Duel 
 - I started learning programming on August 2, 2023
