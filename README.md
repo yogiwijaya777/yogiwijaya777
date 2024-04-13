@@ -38,4 +38,4 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yogiwijaya777&row=1&no-bg=true)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yogiwijaya777&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogiwijaya777)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogiwijaya777&layout=compact)
