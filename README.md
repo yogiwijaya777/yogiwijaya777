@@ -1,7 +1,7 @@
 # Hi there, I'm Yogi Wijaya 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yogiwijaya777.visitor-badge)
 
-## 🤓 About Me
+## 😎 About Me
 - 📖 I’m currently learning **Next.js / TailwindCSS / Zustand / Jotai / other Front-End Tools**.
 
 - 🚀 I'm a passionate developer on an exciting coding journey.
@@ -12,19 +12,21 @@
 
 
 ## 🛠️ Technologies that I use
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-![TypeScript](https://img.shields.io/badge/-TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)
-![Express](https://img.shields.io/badge/ExpressJS-grey?style=for-the-badge&logo=express&logoColor=white&labelColor=8E2DE2)
-![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
-![NodeJS](https://img.shields.io/badge/NodeJS-grey?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=8E2DE2)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-grey?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=8E2DE2)
-![NextJS](https://img.shields.io/badge/NextJS-grey?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
-![VSC](https://img.shields.io/badge/VSCode-grey?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=8E2DE2)
-![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML5](https://img.shields.io/badge/html%205-FCC624?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/css%203-FCC624?style=for-the-badge&logo=css3&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-FCC624?style=for-the-badge&logo=typescript&logoColor=black)
+![Express](https://img.shields.io/badge/ExpressJS-FCC624?style=for-the-badge&logo=express&logoColor=black)
+![React](https://img.shields.io/badge/React-FCC624?style=for-the-badge&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/NodeJS-FCC624?style=for-the-badge&logo=nodedotjs&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-FCC624?style=for-the-badge&logo=tailwindcss&logoColor=black)
+![NextJS](https://img.shields.io/badge/NextJS-FCC624?style=for-the-badge&logo=nextdotjs&logoColor=black)
+![git](https://img.shields.io/badge/-git-FCC624?style=for-the-badge&logo=git&logoColor=black)
+![github](https://img.shields.io/badge/-github-FCC624?style=for-the-badge&logo=github&logoColor=black)
+![VSC](https://img.shields.io/badge/VSCode-FCC624?style=for-the-badge&logo=visual%20studio%20code&logoColor=black)
+![MarkDown](https://img.shields.io/badge/-Markdown-FCC624?style=for-the-badge&logo=Markdown&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-FCC624?style=for-the-badge&logo=docker&logoColor=black)
 
 
 ## 🤝 Connect with me:
