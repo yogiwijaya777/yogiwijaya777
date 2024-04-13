@@ -21,7 +21,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-FCC624?style=for-the-badge&logo=tailwindcss&logoColor=black)
 ![NextJS](https://img.shields.io/badge/NextJS-FCC624?style=for-the-badge&logo=nextdotjs&logoColor=black)
 ![git](https://img.shields.io/badge/-git-FCC624?style=for-the-badge&logo=git&logoColor=black)
-![github](https://img.shields.io/badge/-github-FCC624?style=for-the-badge&logo=github&logoColor=black)
+![GitHub Action](https://img.shields.io/badge/GitHub_Action-FCC624?style=for-the-badge&logo=github&logoColor=black)
 ![VSC](https://img.shields.io/badge/VSCode-FCC624?style=for-the-badge&logo=visual%20studio%20code&logoColor=black)
 ![MarkDown](https://img.shields.io/badge/-Markdown-FCC624?style=for-the-badge&logo=Markdown&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-FCC624?style=for-the-badge&logo=docker&logoColor=black)
