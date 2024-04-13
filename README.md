@@ -4,8 +4,6 @@
 ## 😎 About Me
 - 📖 I’m currently learning **Next.js / TailwindCSS / Zustand / Jotai / other Front-End Tools**.
 
-- 🚀 I'm a passionate developer on an exciting coding journey.
-
 - 🔭 I love exploring new technologies and coding challenges.
 
 - ⚡ I’m also playing Yu-Gi-Oh! Master Duel
