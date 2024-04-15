@@ -2,8 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yogiwijaya777.visitor-badge)
 
 ## 😎 About Me
-- 📖 I’m currently learning **Next.js / TailwindCSS / React Query / Zustand / 
-Tanstack Router / other Front-End Tools** & **Taiwanese Language**.
+- 📖 I’m currently learning **Next.js / TailwindCSS / React Query / Zustand / other Front-End Tools** & **Taiwanese Language**.
 
 - 🔭 I love exploring new technologies and coding challenges.
 
