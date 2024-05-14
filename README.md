@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yogiwijaya777.visitor-badge)
 
 ## 😎 About Me
-- 📖 I’m currently learning **TypeScript / GO / NEXT** & **Taiwanese Language**.
+- 📖 I’m currently learning **TypeScript / GO / NEXT** & **Taiwanese Mandarin**.
 
 - 🔭 I love exploring new technologies and coding challenges.
 
