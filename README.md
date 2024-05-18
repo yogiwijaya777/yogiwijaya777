@@ -2,28 +2,32 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yogiwijaya777.visitor-badge)
 
 ## 😎 About Me
-- 📖 I’m currently learning **TypeScript / GO / NEXT** & **Taiwanese Mandarin**.
-
-- 🔭 I love exploring new technologies and coding challenges.
-
-- ⚡ I’m also playing Yu-Gi-Oh! Master Duel
+- 💻 I'm Backend-Focused Fullstack Developer with DevSecOps Expertise
+- 📖 I’m currently learning **TypeScript**, **Go**, **Next.js**, and **Taiwanese Mandarin**.
+- 🔭 I love exploring new technologies and taking on coding challenges.
+- ⚡ In my free time, I enjoy playing **Yu-Gi-Oh! Master Duel**.
 
 
 ## 🛠️ Technologies that I use
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![HTML5](https://img.shields.io/badge/html%205-FCC624?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/css%203-FCC624?style=for-the-badge&logo=css3&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-FCC624?style=for-the-badge&logo=typescript&logoColor=black)
-![Express](https://img.shields.io/badge/ExpressJS-FCC624?style=for-the-badge&logo=express&logoColor=black)
-![React](https://img.shields.io/badge/React-FCC624?style=for-the-badge&logo=react&logoColor=black)
-![NodeJS](https://img.shields.io/badge/NodeJS-FCC624?style=for-the-badge&logo=nodedotjs&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-FCC624?style=for-the-badge&logo=tailwindcss&logoColor=black)
-![NextJS](https://img.shields.io/badge/NextJS-FCC624?style=for-the-badge&logo=nextdotjs&logoColor=black)
-![git](https://img.shields.io/badge/-git-FCC624?style=for-the-badge&logo=git&logoColor=black)
-![GitHub Action](https://img.shields.io/badge/GitHub_Action-FCC624?style=for-the-badge&logo=github&logoColor=black)
-![MarkDown](https://img.shields.io/badge/-Markdown-FCC624?style=for-the-badge&logo=Markdown&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-FCC624?style=for-the-badge&logo=docker&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FFF?style=for-the-badge&logo=linux&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<!-- 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) -->
 
 
 ## 🤝 Connect with me:
