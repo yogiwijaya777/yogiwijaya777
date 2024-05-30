@@ -3,7 +3,7 @@
 
 ## 😎 About Me
 - 💻 I'm Backend-Focused Fullstack Developer <!-- With DevSecOps Expertise --> 
-- 📖 I’m currently learning **TypeScript**, **Go**, **Next.js**, and **Taiwanese Mandarin**.
+- 📖 I’m currently learning **TypeScript**, **Next.js**, and **Taiwanese Mandarin**.
 - 🔭 I love exploring new technologies and taking on coding challenges.
 - ⚡ In my free time, I enjoy playing **Wuthering Waves**.
 
@@ -18,7 +18,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
