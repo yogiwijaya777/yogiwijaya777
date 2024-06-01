@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yogiwijaya777.visitor-badge)
 
 ## 😎 About Me
-- 💻 I'm Backend-Focused Fullstack Developer <!-- With DevSecOps Expertise --> 
+- 💻 I'm Frontend-Focused Fullstack Developer <!-- With DevSecOps Expertise --> 
 - 📖 I’m currently learning **TypeScript**, **Next.js**, and **Taiwanese Mandarin**.
 - 🔭 I love exploring new technologies and taking on coding challenges.
 - ⚡ In my free time, I enjoy playing **Wuthering Waves**.
