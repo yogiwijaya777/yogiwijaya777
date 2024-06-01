@@ -41,4 +41,5 @@
 **If the trophies doesn't load, please refresh the page.**
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yogiwijaya777&row=1&no-bg=true)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yogiwijaya777)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogiwijaya777&layout=compact)
