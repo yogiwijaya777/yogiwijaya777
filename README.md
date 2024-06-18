@@ -3,7 +3,7 @@
 
 ## 😎 About Me
 - 💻 I'm Backend Focused Fullstack Developer <!-- With DevSecOps Expertise --> 
-- 📖 I’m currently learning **TypeScript**, **Next.js**, **Taiwanese Mandarin**, and **Investment**.
+- 📖 Outside Programming I currently learning **Taiwanese Mandarin**, **Investment**.
 - 🔭 I love exploring new technologies and taking on coding challenges.
 
 
