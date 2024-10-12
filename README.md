@@ -3,7 +3,7 @@
 
 ## 😎 About Me
 - 💻 I'm Frontend Focused Fullstack Developer
-- 📖 Outside Programming I currently learning **Taiwanese Mandarin**, **Invessting**.
+- 📖 Outside Programming I currently learning **Taiwanese Mandarin**, **Investing**.
 - 🔭 I love exploring new technologies and taking on coding challenges.
 
 ## 🛠️ Tools
