@@ -3,8 +3,13 @@
 
 ## 😎 About Me
 - 💻 I'm Frontend Focused Fullstack Developer
-- 📖 Outside Programming I currently learning **Taiwanese Mandarin**, **Investing**.
+- 📖 Outside Programming I currently learning **Investing**.
 - 🔭 I love exploring new technologies and taking on coding challenges.
+
+## 🚀 My Hightlight Projects
+- ⚔️ - The Best of My Projects
+- 📖 - My UI Component Library, Assets, Boilerplate for reused purpose.
+- 🔭 - Portfolio & Blog
 
 ## 🛠️ Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,14 +32,6 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
 -->
-
-
-## 🚀 My Hightlight Projects
-- ⚔️ - The Best of My Projects
-- 📖 - My UI Component Library, Assets, Boilerplate for reused purpose.
-- 🔭 - Portfolio & Blog
-
-
 
 ## 🤝 Connect with me:
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogiwijaya115@gmail.com)
